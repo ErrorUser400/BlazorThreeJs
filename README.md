@@ -1,6 +1,7 @@
 # BlazorThreeJs
-- BlazorWASM (.net 10)
-wanted to use threejs in blazor without using a nuget package and here's the result.
+BlazorWASM (.net 10).
+
+Wanted to use threejs in blazor without using a nuget package and here's the result.
 
 ![photo of page](Assets/firstscreenshot.png "threejs in blazor")
 
