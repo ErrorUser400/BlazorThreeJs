@@ -1,0 +1,17 @@
+﻿@page "/threejs"
+@inject IJSRuntime JS
+
+<PageTitle>ThreeJS</PageTitle>
+
+<canvas id="bg"></canvas>
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await Task.Delay(100);
+            await JS.InvokeVoidAsync("main.initScene", "bg");
+        }
+    }
+}
