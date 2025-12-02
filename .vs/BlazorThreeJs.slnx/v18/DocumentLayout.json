@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\pages\\threepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:pages\\threepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-02T00:50:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThreePage.razor",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\Pages\\ThreePage.razor",
+              "RelativeDocumentMoniker": "Pages\\ThreePage.razor",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\Pages\\ThreePage.razor",
+              "RelativeToolTip": "Pages\\ThreePage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T00:48:24.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
