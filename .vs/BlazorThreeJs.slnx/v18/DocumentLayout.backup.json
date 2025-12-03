@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\pages\\threepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:pages\\threepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\blazorthreejs\\pages\\threepage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6BA38F2-8CFB-1798-C3F9-47303E0DEB43}|BlazorThreeJs.csproj|solutionrelative:pages\\threepage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1076896344:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -39,14 +55,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ThreePage.razor",
-              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\Pages\\ThreePage.razor",
-              "RelativeDocumentMoniker": "Pages\\ThreePage.razor",
-              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\Pages\\ThreePage.razor",
-              "RelativeToolTip": "Pages\\ThreePage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T00:48:24.649Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-03T22:48:30.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreePage.razor.css",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\Pages\\ThreePage.razor.css",
+              "RelativeDocumentMoniker": "Pages\\ThreePage.razor.css",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\Pages\\ThreePage.razor.css",
+              "RelativeToolTip": "Pages\\ThreePage.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T22:25:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T22:20:26.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\BlazorThreeJs\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-03T22:16:47.485Z",
               "EditorCaption": ""
             }
           ]

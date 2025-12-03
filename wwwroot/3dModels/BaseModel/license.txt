@@ -1,0 +1,8 @@
+Model Information:
+* title:	Base male model
+* source:	https://sketchfab.com/3d-models/base-male-model-6afed2ef07594d9e922f753726a73d0a
+* author:	Ojank (https://sketchfab.com/Ojank)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
